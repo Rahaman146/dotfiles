@@ -1,0 +1,9 @@
+flix-cli
+icat
+manga-tui
+mangal-bin
+mpich
+myhtml-git
+novel-cli-git
+yay-debug
+zathura-git

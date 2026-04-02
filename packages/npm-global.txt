@@ -1,0 +1,6 @@
+gemini-cli
+node-gyp
+nopt
+npm
+semver
+webtorrent-cli

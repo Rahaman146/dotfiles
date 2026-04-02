@@ -1,0 +1,18 @@
+# Static information about the filesystems.
+# See fstab(5) for details.
+
+# <file system> <dir> <type> <options> <dump> <pass>
+# /dev/nvme0n1p6
+UUID=f5b86027-a74c-41ae-a647-7ed6168d62ff	/         	ext4      	rw,relatime	0 1
+
+# /dev/nvme0n1p5
+UUID=DDB4-2F22      	/efi      	vfat      	rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=ascii,shortname=mixed,utf8,errors=remount-ro	0 2
+
+# /dev/nvme0n1p7
+UUID=312bb218-05ae-4a9c-8432-b7f57dc49713	none      	swap      	defaults  	0 0
+
+# Windows partition /dev/nvme0n1p3
+UUID=428A4B7E8A4B6E0B  /mnt/windows  ntfs-3g  uid=1000,gid=982,rw,user,exec,umask=000,windows_names  0 0
+
+# Shared partition /dev/nvme0n1p8
+/dev/nvme0n1p8  /mnt/shared  ntfs-3g  defaults,uid=1000,gid=1000,umask=022  0 0

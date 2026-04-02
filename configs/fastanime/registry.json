@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-01-26T00:21:09.607634",
+  "media_index": {
+    "anilist_204066": {
+      "media_id": 204066,
+      "media_api": "anilist",
+      "status": "watching",
+      "progress": "1",
+      "last_watch_position": "00:00:29",
+      "last_watched": "2026-01-26T00:21:09.607558",
+      "total_duration": "00:23:57",
+      "total_episodes": 0,
+      "score": 0.0,
+      "repeat": 0,
+      "notes": "",
+      "last_notified_episode": null,
+      "start_date": "2026-01-26T00:21:09.606241",
+      "completed_at": "2026-01-26T00:21:09.606242",
+      "watch_completion_percentage": 2.0180932498260264
+    }
+  },
+  "status_breakdown": {
+    "watching": 1
+  },
+  "media_count_breakdown": {
+    "anilist": 1
+  },
+  "media_count": 1
+}

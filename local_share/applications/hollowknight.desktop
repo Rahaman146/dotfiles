@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=hollow knight
+Exec=lutris lutris:rungameid/2
+Icon=~/Pictures/hollowknight.png
+Type=Application
+Categories=Game;

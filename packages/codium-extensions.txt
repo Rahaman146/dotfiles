@@ -1,0 +1,3 @@
+asvetliakov.vscode-neovim
+thehydeproject.wallbash
+vscodevim.vim

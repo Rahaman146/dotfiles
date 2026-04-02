@@ -1,0 +1,106 @@
+# ── Secrets — NEVER commit these ─────────────────────────────────────────────
+**/.env
+**/.env.*
+**/secret*
+**/secrets/
+**/*token*
+**/*password*
+**/*passwd*
+# SSH private keys (config is fine, keys are not)
+shell/ssh/id_*
+shell/ssh/known_hosts
+shell/ssh/*.pem
+shell/ssh/*.key
+# GitHub Copilot auth tokens
+configs/github-copilot/
+
+# ── Browsers — too large and contain personal data ───────────────────────────
+configs/chromium/
+configs/mozilla/
+configs/zen/
+configs/BraveSoftware/
+
+# ── KDE binary databases — not portable ──────────────────────────────────────
+configs/dconf/             # binary, not human-readable
+
+# ── Large app data — restore from source instead ─────────────────────────────
+configs/GIMP/              # reinstall plugins via GIMP itself
+configs/libreoffice/       # reinstall extensions via LibreOffice
+configs/Kitware/           # CMake / ParaView GUI state
+configs/godot/             # Godot editor state
+configs/go/                # Go module cache
+configs/uv/                # uv package cache
+configs/parallel/          # GNU parallel job logs
+configs/Proton/            # Steam Proton data
+
+# ── Runtime / session state ───────────────────────────────────────────────────
+configs/session/
+configs/pulse/             # PulseAudio runtime state
+configs/procps/
+configs/systemd/           # user systemd units — add manually if needed
+configs/pdfcpu/
+configs/trashrc
+
+# ── All caches inside tracked config dirs ────────────────────────────────────
+configs/*/cache/
+configs/*/Cache/
+configs/*/CachedData/
+configs/*/CachedExtensionVSIXs/
+configs/*/logs/
+configs/*/log/
+configs/*/Log/
+configs/*/GPUCache/
+configs/*/Code Cache/
+configs/*/ShaderCache/
+configs/*/DawnCache/
+
+# ── VSCodium / Code-OSS — large workspace and extension storage ───────────────
+configs/VSCodium/User/workspaceStorage/
+configs/VSCodium/User/globalStorage/
+configs/VSCodium/logs/
+configs/Code - OSS/User/workspaceStorage/
+configs/Code - OSS/User/globalStorage/
+configs/Code - OSS/logs/
+
+# ── local_share — large runtime data ─────────────────────────────────────────
+local_share/flatpak/       # Flatpak apps — reinstall via flatpak
+local_share/Steam/         # Steam — too large
+local_share/lutris/        # Lutris game runner data
+local_share/umu/           # umu launcher data
+local_share/baloo/         # KDE file indexer database
+local_share/recently-used.xbel
+local_share/Trash/
+
+# ── local_share — excluded because too large or auto-rebuilt ─────────────────
+local_share/nvim/          # lazy.nvim plugin binaries, reinstalled on first launch
+local_share/claude/        # Claude CLI model cache, excluded like local_bin/claude
+local_share/pipx/          # pipx venvs, reinstalled via packages/pipx.txt
+local_share/activitywatch/ # time tracker database, auto-rebuilds from usage
+local_share/NuGet/         # .NET package cache, auto-rebuilds
+local_share/godot/         # Godot editor state, not portable config
+local_share/Trash/         # obviously not
+local_share/mime/          # auto-rebuilt by update-mime-database on package install
+
+# Hyde backup tarballs — large, already captured in local_share/hyde/backups
+# Comment out the next line if you DO want to track them in git (they can be big):
+local_share/hyde/backups/*.tar.gz
+
+# ── local_bin — binaries (reinstalled by setup.sh) ───────────────────────────
+local_bin/uv
+local_bin/uvx
+
+# ── Python ───────────────────────────────────────────────────────────────────
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+
+# ── Setup log (generated at runtime) ─────────────────────────────────────────
+setup.log
+
+# ── OS / editor temp files ────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+local_bin/copilot

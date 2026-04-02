@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=TLauncher
+Exec=env -u WAYLAND_DISPLAY java -jar /home/vergil/Applications/TLauncher.jar
+Icon=/home/vergil/Pictures/Minecraft_logo.svg
+Type=Application
+Categories=Game;
+Terminal=false

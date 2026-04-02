@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Hades II
+Exec=lutris lutris:rungameid/1
+Icon=~/Pictures/hades2.png
+Type=Application
+Categories=Game;

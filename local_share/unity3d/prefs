@@ -1,0 +1,187 @@
+<unity_prefs version_major="1" version_minor="1">
+	<pref name="Adaptive Probe Volumes/Level 0 Subdivision" type="string">QWRhcHRpdmUgUHJvYmUgVm9sdW1lcy9MZXZlbCAwIFN1YmRpdmlzaW9uOzAuNTI5NDExODswLjEzNzI1NDk7MTsx</pref>
+	<pref name="Adaptive Probe Volumes/Level 1 Subdivision" type="string">QWRhcHRpdmUgUHJvYmUgVm9sdW1lcy9MZXZlbCAxIFN1YmRpdmlzaW9uOzAuMjExNzY0NzswLjgxNTY4NjM7MC44OTQxMTc3OzE=</pref>
+	<pref name="Adaptive Probe Volumes/Level 2 Subdivision" type="string">QWRhcHRpdmUgUHJvYmUgVm9sdW1lcy9MZXZlbCAyIFN1YmRpdmlzaW9uOzE7MC4zOTIxNTY5OzAuMTc2NDcwNjsx</pref>
+	<pref name="Adaptive Probe Volumes/Level 3 Subdivision" type="string">QWRhcHRpdmUgUHJvYmUgVm9sdW1lcy9MZXZlbCAzIFN1YmRpdmlzaW9uOzAuMjAzOTIxNjswLjM0MTE3NjU7MTsx</pref>
+	<pref name="Adaptive Probe Volumes/Level 4 Subdivision" type="string">QWRhcHRpdmUgUHJvYmUgVm9sdW1lcy9MZXZlbCA0IFN1YmRpdmlzaW9uOzE7MC4yNzg0MzE0OzAuMzgwMzkyMjsx</pref>
+	<pref name="Adaptive Probe Volumes/Level 5 Subdivision" type="string">QWRhcHRpdmUgUHJvYmUgVm9sdW1lcy9MZXZlbCA1IFN1YmRpdmlzaW9uOzAuNzg0MzEzNzswLjg5MDE5NjE7MC4xNTI5NDEyOzE=</pref>
+	<pref name="AllowAlphaNumericHierarchy" type="int">0</pref>
+	<pref name="Animation/Property Animated" type="string">QW5pbWF0aW9uL1Byb3BlcnR5IEFuaW1hdGVkOzAuODI7MC45NzsxOzE7MC41NDswLjg1OzE7MQ==</pref>
+	<pref name="Animation/Property Candidate" type="string">QW5pbWF0aW9uL1Byb3BlcnR5IENhbmRpZGF0ZTsxOzAuNzswLjY7MTsxOzAuNjc7MC40Mzsx</pref>
+	<pref name="Animation/Property Recorded" type="string">QW5pbWF0aW9uL1Byb3BlcnR5IFJlY29yZGVkOzE7MC42OzAuNjsxOzE7MC41OzAuNTsx</pref>
+	<pref name="AudioMixerUseRMSMetering" type="int">1</pref>
+	<pref name="Cloth/Brush Color 2" type="string">Q2xvdGgvQnJ1c2ggQ29sb3IgMjswOzA7MDswLjI=</pref>
+	<pref name="Cloth/Selected Self or Inter Collision Particle Color 2" type="string">Q2xvdGgvU2VsZWN0ZWQgU2VsZiBvciBJbnRlciBDb2xsaXNpb24gUGFydGljbGUgQ29sb3IgMjswLjI1MDk4MDQ7MC42Mjc0NTE7MTswLjU=</pref>
+	<pref name="Cloth/Self or Inter Collision Particle Color 2" type="string">Q2xvdGgvU2VsZiBvciBJbnRlciBDb2xsaXNpb24gUGFydGljbGUgQ29sb3IgMjswLjU2ODYyNzU7MC45NTY4NjI3OzAuNTQ1MDk4MTswLjU=</pref>
+	<pref name="Cloth/Unselected Self or Inter Collision Particle Color 2" type="string">Q2xvdGgvVW5zZWxlY3RlZCBTZWxmIG9yIEludGVyIENvbGxpc2lvbiBQYXJ0aWNsZSBDb2xvciAyOzAuMTswLjE7MC4xOzAuNQ==</pref>
+	<pref name="CoreRP:VolumeComponent:UI_State:defaultBloom" type="int">0</pref>
+	<pref name="CoreRP:VolumeComponent:UI_State:defaultChannelMixer" type="int">0</pref>
+	<pref name="CoreRP:VolumeComponent:UI_State:defaultChromaticAberration" type="int">0</pref>
+	<pref name="CoreRP:VolumeComponent:UI_State:defaultColorAdjustments" type="int">0</pref>
+	<pref name="CoreRP:VolumeComponent:UI_State:defaultColorCurves" type="int">0</pref>
+	<pref name="CoreRP:VolumeComponent:UI_State:defaultColorLookup" type="int">0</pref>
+	<pref name="CoreRP:VolumeComponent:UI_State:defaultDepthOfField" type="int">0</pref>
+	<pref name="CoreRP:VolumeComponent:UI_State:defaultFilmGrain" type="int">0</pref>
+	<pref name="CoreRP:VolumeComponent:UI_State:defaultLensDistortion" type="int">0</pref>
+	<pref name="CoreRP:VolumeComponent:UI_State:defaultLiftGammaGain" type="int">0</pref>
+	<pref name="CoreRP:VolumeComponent:UI_State:defaultMotionBlur" type="int">0</pref>
+	<pref name="CoreRP:VolumeComponent:UI_State:defaultPaniniProjection" type="int">0</pref>
+	<pref name="CoreRP:VolumeComponent:UI_State:defaultProbeVolumesOptions" type="int">0</pref>
+	<pref name="CoreRP:VolumeComponent:UI_State:defaultScreenSpaceLensFlare" type="int">0</pref>
+	<pref name="CoreRP:VolumeComponent:UI_State:defaultShadowsMidtonesHighlights" type="int">0</pref>
+	<pref name="CoreRP:VolumeComponent:UI_State:defaultSplitToning" type="int">0</pref>
+	<pref name="CoreRP:VolumeComponent:UI_State:defaultTonemapping" type="int">0</pref>
+	<pref name="CoreRP:VolumeComponent:UI_State:defaultVignette" type="int">0</pref>
+	<pref name="CoreRP:VolumeComponent:UI_State:defaultWhiteBalance" type="int">0</pref>
+	<pref name="DefaultPrefabModeFromHierarchy" type="int">1</pref>
+	<pref name="Editor.kEditorLocale" type="string">RW5nbGlzaA==</pref>
+	<pref name="Editor.kEnableCompilerMessagesLocalization" type="int">0</pref>
+	<pref name="Editor.kEnableEditorLocalization" type="int">1</pref>
+	<pref name="EditorBusyProgressDialogDelay" type="float">3</pref>
+	<pref name="EditorTextGeneratorTypeV2" type="int">1</pref>
+	<pref name="EditorTextRenderingMode" type="int">0</pref>
+	<pref name="EditorTextSharpness_Inter-Regular" type="float">0</pref>
+	<pref name="EditorUpdateNextCheck" type="int">1773596429</pref>
+	<pref name="EnableConstrainProportionsTransformScale" type="int">0</pref>
+	<pref name="EnableEditorAnalytics" type="int">1</pref>
+	<pref name="EnableEditorAnalyticsV2" type="int">1</pref>
+	<pref name="EnableExtendedLogging" type="int">0</pref>
+	<pref name="GICacheCompressionLevel" type="int">1</pref>
+	<pref name="GICacheEnableCustomPath" type="int">0</pref>
+	<pref name="GICacheMaximumSizeGB" type="int">5</pref>
+	<pref name="GraphSnapping" type="int">1</pref>
+	<pref name="IsMainWindowMaximized" type="int">0</pref>
+	<pref name="LastUsedProjectPath" type="string">L2hvbWUvdmVyZ2lsL1NldHVwIEd1aWRlIEluLUVkaXRvciBUdXRvcmlhbA==</pref>
+	<pref name="OpenGameViewOnEnteringPlayMode" type="int">1</pref>
+	<pref name="Overlays Background/SceneView" type="string">T3ZlcmxheXMgQmFja2dyb3VuZC9TY2VuZVZpZXc7MDswOzA7MC44</pref>
+	<pref name="Overlays Background/WasProSkin" type="int">1</pref>
+	<pref name="PackageManager.Filter_d1e46851-2754-b2cd-8356-844b28cde92e" type="string">VW5pdHlSZWdpc3RyeQ==</pref>
+	<pref name="PackageManager.SplitterFlexGrowPrefs" type="float">0.3</pref>
+	<pref name="PerformBumpMapChecks" type="int">1</pref>
+	<pref name="PlayerConnectionLoggingState" type="int">1</pref>
+	<pref name="PlayerSettings.ShownSection" type="int">2</pref>
+	<pref name="Playmode tint" type="string">UGxheW1vZGUgdGludDswLjg7MC44OzAuODsx</pref>
+	<pref name="Profiler.DefaultRecordState" type="int">1</pref>
+	<pref name="Profiler.DefaultTargetMode" type="int">0</pref>
+	<pref name="Profiler.RememberLastRecordState" type="int">0</pref>
+	<pref name="Profiler.ShowStatsLabelsOnCurrentFrame" type="int">0</pref>
+	<pref name="ProjectBrowserAssets" type="int">1</pref>
+	<pref name="ProjectBrowserFavorites" type="int">1</pref>
+	<pref name="ProjectBrowserPackages" type="int">1</pref>
+	<pref name="RecentlyUsedProjectPaths-0" type="string">L21udC9zaGFyZWQvdW5pdHktcHJvamVjdHMvRWxlY3Ryb21hZ25ldGljIHZpc3VhbGl6YXRpb24=</pref>
+	<pref name="ReopenLastUsedProjectOnStartup" type="int">0</pref>
+	<pref name="RestoredMainWindowSizeH" type="float">1113</pref>
+	<pref name="RestoredMainWindowSizeW" type="float">1890</pref>
+	<pref name="RestoredMainWindowSizeX" type="float">15</pref>
+	<pref name="RestoredMainWindowSizeY" type="float">72</pref>
+	<pref name="SaveScenesBeforeBuilding" type="int">0</pref>
+	<pref name="Scene/Back-Facing Geometry" type="string">U2NlbmUvQmFjay1GYWNpbmcgR2VvbWV0cnk7MC40OTQxMTc2OzAuMTgwMzkyMjswLjg1MDk4MDQ7MQ==</pref>
+	<pref name="Scene/Background" type="string">U2NlbmUvQmFja2dyb3VuZDswLjI3ODQzMTswLjI3ODQzMTswLjI3ODQzMTsx</pref>
+	<pref name="Scene/Background for Prefabs" type="string">U2NlbmUvQmFja2dyb3VuZCBmb3IgUHJlZmFiczswLjEzMjswLjIzMTswLjMzOzE=</pref>
+	<pref name="Scene/Center Axis" type="string">U2NlbmUvQ2VudGVyIEF4aXM7MC44OzAuODswLjg7MC45Mw==</pref>
+	<pref name="Scene/Constrain Proportions Scale Handle" type="string">U2NlbmUvQ29uc3RyYWluIFByb3BvcnRpb25zIFNjYWxlIEhhbmRsZTswLjc0NTA5ODE7MC43NDUwOTgxOzAuNzQ1MDk4MTsx</pref>
+	<pref name="Scene/Contribute GI: Off / Receive GI: Light Probes" type="string">U2NlbmUvQ29udHJpYnV0ZSBHSTogT2ZmIC8gUmVjZWl2ZSBHSTogTGlnaHQgUHJvYmVzOzAuODk4MDM5MjswLjc5NjA3ODQ7MC41MTc2NDcxOzE=</pref>
+	<pref name="Scene/Contribute GI: On / Receive GI: Light Probes" type="string">U2NlbmUvQ29udHJpYnV0ZSBHSTogT24gLyBSZWNlaXZlIEdJOiBMaWdodCBQcm9iZXM7MC44NjY2NjY3OzAuNDUwOTgwNDswLjM1Njg2Mjg7MQ==</pref>
+	<pref name="Scene/Contribute GI: On / Receive GI: Lightmaps" type="string">U2NlbmUvQ29udHJpYnV0ZSBHSTogT24gLyBSZWNlaXZlIEdJOiBMaWdodG1hcHM7MC4zNDkwMTk2OzAuNTgwMzkyMjswLjYzMTM3MjY7MQ==</pref>
+	<pref name="Scene/Decal" type="string">U2NlbmUvRGVjYWw7MTsxOzE7MC4wMzEzNzI1NQ==</pref>
+	<pref name="Scene/Element Default" type="string">U2NlbmUvRWxlbWVudCBEZWZhdWx0OzA7MC44Nzg0MzE0OzE7MQ==</pref>
+	<pref name="Scene/Element Preselection" type="string">U2NlbmUvRWxlbWVudCBQcmVzZWxlY3Rpb247MTswLjgxMTc2NDc7MC40MzkyMTU3OzE=</pref>
+	<pref name="Scene/Element Selection" type="string">U2NlbmUvRWxlbWVudCBTZWxlY3Rpb247MTswLjcxMzcyNTU7MC4xNTY4NjI4OzE=</pref>
+	<pref name="Scene/Grid" type="string">U2NlbmUvR3JpZDswLjU7MC41OzAuNTswLjQ=</pref>
+	<pref name="Scene/Guide Line" type="string">U2NlbmUvR3VpZGUgTGluZTswLjU7MC41OzAuNTswLjI=</pref>
+	<pref name="Scene/Material Validator Pure Metal" type="string">U2NlbmUvTWF0ZXJpYWwgVmFsaWRhdG9yIFB1cmUgTWV0YWw7MTsxOzA7MQ==</pref>
+	<pref name="Scene/Material Validator Value Too High" type="string">U2NlbmUvTWF0ZXJpYWwgVmFsaWRhdG9yIFZhbHVlIFRvbyBIaWdoOzA7MDsxOzE=</pref>
+	<pref name="Scene/Material Validator Value Too Low" type="string">U2NlbmUvTWF0ZXJpYWwgVmFsaWRhdG9yIFZhbHVlIFRvbyBMb3c7MTswOzA7MQ==</pref>
+	<pref name="Scene/Preselection Highlight" type="string">U2NlbmUvUHJlc2VsZWN0aW9uIEhpZ2hsaWdodDswLjc4ODIzNTM7MC43ODQzMTM3OzAuNTY0NzA1OTswLjg5</pref>
+	<pref name="Scene/Receive + Contribute GI (Light Probes)" type="string">U2NlbmUvUmVjZWl2ZSArIENvbnRyaWJ1dGUgR0kgKExpZ2h0IFByb2Jlcyk7MC4xMzcyNTQ5OzAuMDU4ODIzNTM7MC42OzE=</pref>
+	<pref name="Scene/Receive + Contribute GI (Lightmaps)" type="string">U2NlbmUvUmVjZWl2ZSArIENvbnRyaWJ1dGUgR0kgKExpZ2h0bWFwcyk7MC4xODQzMTM3OzAuNjswLjE2MDc4NDM7MQ==</pref>
+	<pref name="Scene/Receive GI Only (Light Probes)" type="string">U2NlbmUvUmVjZWl2ZSBHSSBPbmx5IChMaWdodCBQcm9iZXMpOzAuOTAxOTYwODswLjM4ODIzNTM7MC4wOTgwMzkyMjsx</pref>
+	<pref name="Scene/RectTransform Wire" type="string">U2NlbmUvUmVjdFRyYW5zZm9ybSBXaXJlOzE7MTsxOzE=</pref>
+	<pref name="Scene/Selected Axis" type="string">U2NlbmUvU2VsZWN0ZWQgQXhpczswLjk2NDcwNTk7MC45NDkwMTk2OzAuMTk2MDc4NDswLjg5</pref>
+	<pref name="Scene/Selected Children Outline" type="string">U2NlbmUvU2VsZWN0ZWQgQ2hpbGRyZW4gT3V0bGluZTswLjM2ODYyNzU7MC40NjY2NjY3OzAuNjA3ODQzMjsw</pref>
+	<pref name="Scene/Selected Material Highlight" type="string">U2NlbmUvU2VsZWN0ZWQgTWF0ZXJpYWwgSGlnaGxpZ2h0OzAuNzg0MzEzNzswOzA7MC4zOTIxNTY5</pref>
+	<pref name="Scene/Selected Outline" type="string">U2NlbmUvU2VsZWN0ZWQgT3V0bGluZTsxOzAuNDswOzA=</pref>
+	<pref name="Scene/UI Collider Handle" type="string">U2NlbmUvVUkgQ29sbGlkZXIgSGFuZGxlOzAuNTY4NjI3NTswLjk1Njg2Mjc7MC41NDUwOTgxOzAuODIzNTI5NA==</pref>
+	<pref name="Scene/Volume Gizmo" type="string">U2NlbmUvVm9sdW1lIEdpem1vOzAuMjswLjg7MC4xOzAuMTI1</pref>
+	<pref name="Scene/Wireframe" type="string">U2NlbmUvV2lyZWZyYW1lOzA7MDswOzAuNQ==</pref>
+	<pref name="Scene/Wireframe Overlay" type="string">U2NlbmUvV2lyZWZyYW1lIE92ZXJsYXk7MDswOzA7MC4yNQ==</pref>
+	<pref name="Scene/Wireframe Selected" type="string">U2NlbmUvV2lyZWZyYW1lIFNlbGVjdGVkOzAuMzY4NjI3NTswLjQ2NjY2Njc7MC42MDc4NDMyOzAuMjUwOTgwNA==</pref>
+	<pref name="Scene/X Axis" type="string">U2NlbmUvWCBBeGlzOzAuODU4ODIzNTswLjI0MzEzNzM7MC4xMTM3MjU1OzAuOTM=</pref>
+	<pref name="Scene/Y Axis" type="string">U2NlbmUvWSBBeGlzOzAuNjAzOTIxNjswLjk1Mjk0MTI7MC4yODIzNTM7MC45Mw==</pref>
+	<pref name="Scene/Z Axis" type="string">U2NlbmUvWiBBeGlzOzAuMjI3NDUxOzAuNDc4NDMxNDswLjk3MjU0OTswLjkz</pref>
+	<pref name="ScriptCompilationDuringPlay" type="int">0</pref>
+	<pref name="ScriptDebugInfoEnabled" type="int">0</pref>
+	<pref name="Search.ItemIconSize" type="float">32</pref>
+	<pref name="SettingsWindow_Preferences_current_provider" type="string">UHJlZmVyZW5jZXMvRXh0ZXJuYWwgVG9vbHM=</pref>
+	<pref name="SettingsWindow_Project Settings_current_provider" type="string">UHJvamVjdC9YUiBQbHVnLWluIE1hbmFnZW1lbnQvUHJvamVjdCBWYWxpZGF0aW9u</pref>
+	<pref name="SettingsWindow_m_Splitter" type="float">0.2</pref>
+	<pref name="SettingsWindow_m_SplitterPos" type="float">150</pref>
+	<pref name="ShortcutManager_ProfileMigrated" type="int">1</pref>
+	<pref name="System.Boolean::Handles.DirectManipulation.SnapToGuide" type="int">1</pref>
+	<pref name="System.Boolean::IET.DisplayWelcomeDialogOnStartup" type="int">0</pref>
+	<pref name="System.Boolean::IET.MaskingEnabled" type="int">1</pref>
+	<pref name="System.Boolean::IET.ShowSimplifiedTypeNames" type="int">1</pref>
+	<pref name="System.Boolean::IET.ShowTutorialsWindowClosedDialog" type="int">0</pref>
+	<pref name="System.Boolean::IET.UseDefaultEditors" type="int">0</pref>
+	<pref name="System.Boolean::KnotPlacementHandle.s_EnableDragTangent" type="int">1</pref>
+	<pref name="System.Boolean::settings.listByKey" type="int">0</pref>
+	<pref name="System.Boolean::settings.showHidden" type="int">0</pref>
+	<pref name="System.Boolean::settings.showUnregistered" type="int">0</pref>
+	<pref name="System.Int32::Handles.Debug.MeshResolution" type="int">10</pref>
+	<pref name="System.Single::Handles.Debug.MeshSize" type="float">0.59</pref>
+	<pref name="System.Single::Handles.DirectManipulation.SnapToGuideDistance" type="float">7</pref>
+	<pref name="Terms-43dc734cac67bb5fb31d4692eb48c6b3" type="int">1</pref>
+	<pref name="Trail Renderer/Bounds" type="string">VHJhaWwgUmVuZGVyZXIvQm91bmRzOzE7MC45MjE1Njg2OzAuMDE1Njg2Mjg7MQ==</pref>
+	<pref name="Trail Renderer/Shape Gizmos" type="string">VHJhaWwgUmVuZGVyZXIvU2hhcGUgR2l6bW9zOzAuNTgwMzkyMjswLjg5ODAzOTI7MTswLjk=</pref>
+	<pref name="Unity.Tutorials.Core.Editor.TutorialModalWindowh" type="float">500</pref>
+	<pref name="Unity.Tutorials.Core.Editor.TutorialModalWindoww" type="float">700</pref>
+	<pref name="Unity.Tutorials.Core.Editor.TutorialModalWindowx" type="float">610</pref>
+	<pref name="Unity.Tutorials.Core.Editor.TutorialModalWindowy" type="float">366</pref>
+	<pref name="Unity.Tutorials.Core.Editor.TutorialModalWindowz" type="int">0</pref>
+	<pref name="UnityConnectUrlConfiguration" type="string">eyJ2YWx1ZSI6IntcImNvcmVcIjpcImh0dHBzOi8vY29yZS5jbG91ZC51bml0eTNkLmNvbVwiLFwid2ViYXV0aFwiOlwiaHR0cHM6Ly9hY2NvdW50cy51bml0eTNkLmNvbVwiLFwiaWRlbnRpdHlcIjpcImh0dHBzOi8vYXBpLnVuaXR5LmNvbVwiLFwibGljZW5zZVwiOlwiaHR0cHM6Ly9saWNlbnNlLnVuaXR5M2QuY29tXCIsXCJhY3RpdmF0aW9uXCI6XCJodHRwczovL2FjdGl2YXRpb24udW5pdHkzZC5jb21cIixcInBlcmZcIjpcImh0dHBzOi8vcGVyZi5jbG91ZC51bml0eTNkLmNvbVwiLFwicG9ydGFsXCI6XCJodHRwczovL2lkLnVuaXR5LmNvbVwiLFwiaHViX2luc3RhbGxlcl9sb2NhdGlvblwiOlwiaHR0cHM6Ly9wdWJsaWMtY2RuLmNsb3VkLnVuaXR5M2QuY29tL2h1Yi9wcm9kL1wiLFwiYWN0aXZpdHktZmVlZFwiOmZhbHNlLFwiYW5hbHl0aWNzXCI6XCJodHRwczovL2FuYWx5dGljcy5jbG91ZC51bml0eTNkLmNvbVwiLFwiY2RwLWFuYWx5dGljc1wiOlwiaHR0cHM6Ly9wcmQtbGVuZGVyLmNkcC5pbnRlcm5hbC51bml0eTNkLmNvbVwiLFwiYW5hbHl0aWNzT3B0T3V0XCI6XCJodHRwczovL2NvbmZpZy51Y2EuY2xvdWQudW5pdHkzZC5jb20vXCIsXCJsaXZlUGxhdGZvcm1cIjpcImh0dHBzOi8vbGl2ZS1wbGF0Zm9ybS1hcGkucHJkLmxkLnVuaXR5M2QuY29tL2dyYXBocWxcIixcInNlcnZpY2VzR2F0ZXdheVwiOlwiaHR0cHM6Ly9zZXJ2aWNlcy51bml0eS5jb21cIixcInByb2ZpbGVEYXNoYm9hcmRcIjpcImh0dHBzOi8vY2xvdWQudW5pdHkuY29tXCIsXCJsb2dpblwiOlwiaHR0cHM6Ly9sb2dpbi51bml0eS5jb21cIixcImFkc1wiOlwiaHR0cHM6Ly91bml0eWFkcy51bml0eTNkLmNvbS9hZG1pblwiLFwiYXNzZXRfc3RvcmVfYXBpXCI6XCJodHRwczovL3BhY2thZ2VzLXYyLnVuaXR5LmNvbVwiLFwiYXNzZXRfc3RvcmVfdXJsXCI6XCJodHRwczovL2Fzc2V0c3RvcmUudW5pdHkuY29tXCIsXCJidWlsZFwiOlwiaHR0cHM6Ly9kZXZlbG9wZXIuY2xvdWQudW5pdHkzZC5jb21cIixcImJ1aWxkLWFwaVwiOlwiaHR0cHM6Ly9idWlsZC1hcGkuY2xvdWQudW5pdHkzZC5jb21cIixcImJ1aWxkX3VwbG9hZF9hcGlfdXJsXCI6XCJodHRwczovL2J1aWxkLWFydGlmYWN0LWFwaS5jbG91ZC51bml0eTNkLmNvbVwiLFwiY2xvdWRkYXRhXCI6XCJodHRwczovL2RhdGEuY2xvdWQudW5pdHkzZC5jb21cIixcImNvbGxhYlwiOlwiaHR0cHM6Ly9jb2xsYWIuY2xvdWQudW5pdHkzZC5jb21cIixcImNvbGxhYi1hY2NlbGVyYXRvclwiOlwiaHR0cHM6Ly9jb2xsYWItYWNjZWxlcmF0b3IuY2xvdWQudW5pdHkzZC5jb21cIixcImNvbGxhYi1tYXgtZmlsZXMtcGVyLWNvbW1pdFwiOjEwMDAwLFwiY29tbWVudGluZ1wiOlwiaHR0cHM6Ly9jb21tZW50aW5nLmNsb3VkLnVuaXR5M2QuY29tXCIsXCJjb3JlZW1iZWRkZWRcIjpcImh0dHBzOi8vZW1iZWRkZWQuY2xvdWQudW5pdHkzZC5jb21cIixcImNvcmV1aVwiOlwiaHR0cHM6Ly9kZXZlbG9wZXIuY2xvdWQudW5pdHkzZC5jb21cIixcImdlbmVzaXNfYXBpX3VybFwiOlwiaHR0cHM6Ly9hcGkudW5pdHkuY29tXCIsXCJnZW5lc2lzX3NlcnZpY2VfdXJsXCI6XCJodHRwczovL2lkLnVuaXR5LmNvbVwiLFwiaHViLWRpc2FibGUtbWFya2V0aW5nLXRpcHNcIjpmYWxzZSxcImp1bXBcIjpcImh0dHBzOi8vanVtcC5jbG91ZC51bml0eTNkLmNvbVwiLFwicGFja21hbl9rZXlcIjpcIjYzNTdDNTIzODg2RTgxM0QxNTAwNDA4RjA1QjBEN0E2XCIsXCJwZXJmLWV2ZW50c1wiOlwiaHR0cHM6Ly9hOmJAcGVyZi1ldmVudHMuY2xvdWQudW5pdHkzZC5jb21cIixcInBlcmYtbWF4LWJhdGNoLXNpemVcIjpcIjFcIixcInBlcmYtbWF4LWV2ZW50c1wiOlwiMTAwXCIsXCJwZXJmLXNlY29uZHMtcGVyLWJhdGNoXCI6XCIzXCIsXCJwdWJudWJfc2VydmljZV9vcmlnaW5cIjpcInVuaXR5LnB1Ym51YmFwaS5jb21cIixcInNlYXRfcmVxdWlyZWRcIjp0cnVlLFwic2VhdGluZm91cmxcIjpcIi90ZWFtcy9sZWFybi1tb3JlXCIsXCJzb2NpYWxkYXNoYm9hcmRcIjpcImh0dHBzOi8vZGFzaGJvYXJkLmhleXBsYXlhcHAuY29tXCIsXCJzc29cIjp0cnVlLFwidW5hdXRoZW50aWNhdGVkdXJsXCI6XCIvbGFuZGluZ1wiLFwidW5ldFwiOlwiaHR0cHM6Ly9tdWx0aXBsYXllci51bml0eTNkLmNvbVwiLFwid2FpdGxpc3RcIjpcImh0dHBzOi8vZGV2ZWxvcGVyLmNsb3VkLnVuaXR5M2QuY29tXCIsXCJ3YWl0bGlzdF9hcGlcIjpcImh0dHBzOi8vY29sbGFiLXdhaXRpbmctbGlzdC5jbG91ZC51bml0eTNkLmNvbVwiLFwic2VydmljZXMtZ2F0ZXdheVwiOlwiaHR0cHM6Ly9zZXJ2aWNlcy51bml0eS5jb21cIn0iLCJjcmVhdGlvbiI6MTc3MzU5NjM2OSwiZXhwaXJlcyI6MTgwNTEzMjM2OX0=</pref>
+	<pref name="UnityEditor.MainViewh" type="float">1088</pref>
+	<pref name="UnityEditor.MainVieww" type="float">1890</pref>
+	<pref name="UnityEditor.MainViewx" type="float">15</pref>
+	<pref name="UnityEditor.MainViewy" type="float">72</pref>
+	<pref name="UnityEditor.MainViewz" type="int">0</pref>
+	<pref name="UnityEditor.PackageManager.UI.PackageManagerWindowh" type="float">575</pref>
+	<pref name="UnityEditor.PackageManager.UI.PackageManagerWindoww" type="float">800</pref>
+	<pref name="UnityEditor.PackageManager.UI.PackageManagerWindowx" type="float">462</pref>
+	<pref name="UnityEditor.PackageManager.UI.PackageManagerWindowy" type="float">315</pref>
+	<pref name="UnityEditor.PackageManager.UI.PackageManagerWindowz" type="int">0</pref>
+	<pref name="UnityEditor.PreferenceSettingsWindowh" type="float">599</pref>
+	<pref name="UnityEditor.PreferenceSettingsWindoww" type="float">645</pref>
+	<pref name="UnityEditor.PreferenceSettingsWindowx" type="float">195</pref>
+	<pref name="UnityEditor.PreferenceSettingsWindowy" type="float">57</pref>
+	<pref name="UnityEditor.PreferenceSettingsWindowz" type="int">0</pref>
+	<pref name="UnityEditor.ProjectSettingsWindowh" type="float">1200</pref>
+	<pref name="UnityEditor.ProjectSettingsWindoww" type="float">1920</pref>
+	<pref name="UnityEditor.ProjectSettingsWindowx" type="float">24</pref>
+	<pref name="UnityEditor.ProjectSettingsWindowy" type="float">169</pref>
+	<pref name="UnityEditor.ProjectSettingsWindowz" type="int">0</pref>
+	<pref name="UnityEditor.Rendering.Universal.URPDefaultVolumeProfileSettingsPropertyDrawer.DefaultVolumeProfileFoldoutExpanded" type="int">1</pref>
+	<pref name="UnityEditor.TooltipViewh" type="float">26</pref>
+	<pref name="UnityEditor.TooltipVieww" type="float">204</pref>
+	<pref name="UnityEditor.TooltipViewx" type="float">1057</pref>
+	<pref name="UnityEditor.TooltipViewy" type="float">420</pref>
+	<pref name="UnityEditor.TooltipViewz" type="int">0</pref>
+	<pref name="UnityEditor.U2D.Physics/Physics2DSettingsTabSelected" type="int">0</pref>
+	<pref name="UnityEngine.Color::Gizmos.SplineColor" type="string">eyJtX1ZhbHVlIjp7InIiOjAuMCwiZyI6MC4wLCJiIjoxLjAsImEiOjEuMH19</pref>
+	<pref name="UnityEngine.Color::Handles.CurveNormalBehindColor" type="string">eyJtX1ZhbHVlIjp7InIiOjAuMCwiZyI6MC4wLCJiIjowLjAsImEiOjAuNDAwMDAwMDA1OTYwNDY0NX19</pref>
+	<pref name="UnityEngine.Color::Handles.CurveNormalInFrontColor" type="string">eyJtX1ZhbHVlIjp7InIiOjAuMCwiZyI6MC4wLCJiIjowLjAsImEiOjEuMH19</pref>
+	<pref name="UnityEngine.Color::Handles.Debug.MeshColor" type="string">eyJtX1ZhbHVlIjp7InIiOjEuMCwiZyI6MS4wLCJiIjoxLjAsImEiOjEuMH19</pref>
+	<pref name="UnityEngine.Color::Handles.DirectManipulation.PlaneColor" type="string">eyJtX1ZhbHVlIjp7InIiOjEuMCwiZyI6MS4wLCJiIjoxLjAsImEiOjAuMDE5NjA3ODQzODMxMTgxNTI3fX0=</pref>
+	<pref name="UnityEngine.Color::Handles.TangentDefaultColor" type="string">eyJtX1ZhbHVlIjp7InIiOjAuMCwiZyI6MC4wLCJiIjowLjAsImEiOjEuMH19</pref>
+	<pref name="UseInspectorExpandedState" type="int">0</pref>
+	<pref name="d80a96315208455a9ba318d697981cfc" type="int">1</pref>
+	<pref name="kAutoRefreshMode" type="int">1</pref>
+	<pref name="kDiffsDefaultApp" type="string">Q3VzdG9tIFRvb2w=</pref>
+	<pref name="kProjectBasePath" type="string">L21udC9zaGFyZWQvdW5pdHktcHJvamVjdHMvRWxlY3Ryb21hZ25ldGljIHZpc3VhbGl6YXRpb24=</pref>
+	<pref name="kScriptEditorArgs" type="string">JChGaWxlKQ==</pref>
+	<pref name="kScriptsDefaultApp" type="string">L3Vzci9iaW4vY29kZQ==</pref>
+	<pref name="kWorkspacePath" type="string">L21udC9zaGFyZWQvdW5pdHktcHJvamVjdHMvRWxlY3Ryb21hZ25ldGljIHZpc3VhbGl6YXRpb24=</pref>
+	<pref name="overlay-show-orientation-background" type="int">0</pref>
+	<pref name="project-settings-physics-frame-maintenance-unfold" type="int">0</pref>
+	<pref name="unity.editor_session_count" type="string">MTk=</pref>
+	<pref name="unity.editor_sessionid" type="string">MTg0NDM0MTM1NDgxMTEyMDMwNg==</pref>
+</unity_prefs>
