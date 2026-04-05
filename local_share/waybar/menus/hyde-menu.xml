@@ -193,6 +193,25 @@
 
 
 
+        <child>
+            <object class="GtkMenuItem" id="loginscreen_menu">
+        <property name="label">󰌢  Sddm-Theme</property>
+                <child type="submenu">
+                    <object class="GtkMenu">
+
+                        <child>
+                            <object class="GtkMenuItem" id="loginscreen-select">
+                                <property name="label">  Select Loginscreen</property>
+                            </object>
+                        </child>
+
+
+                    </object>
+                </child>
+            </object>
+        </child>
+
+
 
         <child>
             <object class="GtkMenuItem" id="shaders_menu">

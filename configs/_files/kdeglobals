@@ -5,7 +5,7 @@ BackgroundNormal=#191919FF
 TerminalApplication=kitty
 
 [Icons]
-Theme=Tela-circle-grey
+Theme=Tela-circle-dracula
 
 [KDE]
 widgetStyle=kvantum

@@ -22,6 +22,7 @@
       "waybar-layout-next": "hyde-shell waybar --update --next",
       "waybar-layout-previous": "hyde-shell waybar --update --prev",
       "lockscreen-select": "hyde-shell lockscreen --select",
+      "loginscreen-select": "hyde-shell loginscreen --select",
       "workflows-select": "hyde-shell workflows --select;pkill -RTMIN+19 waybar",
       "shaders-select": "hyde-shell shaders --select;pkill -RTMIN+19 waybar",
       "keybinds-hint": "hyde-shell keybinds_hint",

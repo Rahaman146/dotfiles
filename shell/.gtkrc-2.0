@@ -2,8 +2,8 @@
 # Any customization should be done in ~/.gtkrc-2.0.mine instead.
 
 include "/home/vergil/.gtkrc-2.0.mime"
-gtk-theme-name="Graphite-Mono"
-gtk-icon-theme-name="Tela-circle-grey"
+gtk-theme-name="Wallbash-Gtk"
+gtk-icon-theme-name="Tela-circle-dracula"
 gtk-font-name="Cantarell 10"
 gtk-cursor-theme-name="Bibata-Modern-Ice"
 gtk-cursor-theme-size=20

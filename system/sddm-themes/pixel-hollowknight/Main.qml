@@ -1,7 +1,7 @@
-import QtQuick 2.15
-import QtQuick.Window 2.15
-import QtGraphicalEffects 1.15
-import Qt.labs.folderlistmodel 2.15
+import QtQuick
+import QtQuick.Window
+import Qt5Compat.GraphicalEffects
+import Qt.labs.folderlistmodel
 import SddmComponents 2.0
 
 Rectangle {
@@ -16,13 +16,16 @@ Rectangle {
 
     FolderListModel { id: fontFolder; folder: Qt.resolvedUrl("font"); nameFilters: ["*.ttf", "*.otf"] }
     FontLoader { id: pf; source: fontFolder.count > 0 ? "font/" + fontFolder.get(0, "fileName") : "" }
-    ListView { id: sessionHelper; model: sessionModel; currentIndex: root.sessionIndex; visible: false
+    ListView { id: sessionHelper; model: sessionModel; currentIndex: root.sessionIndex; opacity: 0; width: 100; height: 100; z: -100
         delegate: Item { property string sName: model.name || "" }
     }
-    ListView { id: userHelper; model: userModel; currentIndex: root.userIndex; visible: false
+    ListView { id: userHelper; model: userModel; currentIndex: root.userIndex; opacity: 0; width: 100; height: 100; z: -100
         delegate: Item { property string uName: model.realName || model.name || ""; property string uLogin: model.name || "" }
     }
     
+    // Auto-focus fix for Quickshell (Loader does not propagate focus: true)
+    Timer { interval: 300; running: true; onTriggered: pwd.forceActiveFocus() }
+
     Component.onCompleted: fadeAnim.start()
     NumberAnimation { id: fadeAnim; target: root; property: "ui"; from: 0; to: 1; duration: 3000; easing.type: Easing.InOutQuad }
 
@@ -92,7 +95,7 @@ Rectangle {
     // Session Switcher
     Item {
         anchors.top: parent.top; anchors.left: parent.left; anchors.margins: 40 * s; width: stm.implicitWidth + 24 * s; height: 28 * s; opacity: root.ui
-        Text { id: stm; anchors.centerIn: parent; text: (sessionHelper.currentItem ? sessionHelper.currentItem.sName : "SESSION").toUpperCase(); color: sm.containsMouse ? root.lantern : root.lore; opacity: sm.containsMouse ? 1.0 : 0.5; font.family: pf.name; font.pixelSize: 10 * s; font.letterSpacing: 4 * s; Behavior on color { ColorAnimation { duration: 150 } } Behavior on opacity { NumberAnimation { duration: 150 } } }
+        Text { id: stm; anchors.centerIn: parent; text: (sessionHelper.currentItem && sessionHelper.currentItem.sName ? sessionHelper.currentItem.sName : "Session").toUpperCase(); color: sm.containsMouse ? root.lantern : root.lore; opacity: sm.containsMouse ? 1.0 : 0.5; font.family: pf.name; font.pixelSize: 10 * s; font.letterSpacing: 4 * s; Behavior on color { ColorAnimation { duration: 150 } } Behavior on opacity { NumberAnimation { duration: 150 } } }
         MouseArea { id: sm; anchors.fill: parent; hoverEnabled: true; cursorShape: Qt.PointingHandCursor; onClicked: { if (sessionModel && sessionModel.rowCount() > 0) root.sessionIndex = (root.sessionIndex + 1) % sessionModel.rowCount() } }
     }
 
